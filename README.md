@@ -15,6 +15,10 @@ Audio files converted to WAV, 16kHz.
 
 These are the audio clips cut to 1s of duration, according to https://github.com/petewarden/extract_loudest_section.
 
+## keywords_curated
+
+Audio clips with data augmentation applied with Shawn Hymel's script from https://github.com/ShawnHymel/ei-keyword-spotting.
+
 # Acknowledgments
 
 Thanks to Pete Warden and his work on Speech Commands:
